@@ -1,5 +1,5 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Lab 01: Mobile First
-=======
+
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 Welcome to your first lab assignment for Code 301!!
@@ -122,5 +122,3 @@ Meets all Assignment Reqs | 6
 Uses idiomatic code style | 3
 Follows proper Git workflow | 1
 **Total** | **10**
-
-<!-- links -->
